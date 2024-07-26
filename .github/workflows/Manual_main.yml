@@ -16,4 +16,4 @@ jobs:
         repository: AngelGuzman1997/TallerGITHUB
         ref: main
     - name: Cat de archivo llamado prueba
-      run: cat Prueba
+      run: cat Pruba
